@@ -16,5 +16,6 @@ public class Login extends AppCompatActivity {
         setContentView(binding.getRoot());
 
 
+        getSupportActionBar().hide();
     }
 }
